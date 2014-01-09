@@ -1,3 +1,5 @@
+# Github test comment
+
 RandProjBinary1 <- function(p=1000,d=10)
     {
         R <- matrix(1/sqrt(p)*2*(rbinom(d*p,1,0.5)-0.5),p,d)
